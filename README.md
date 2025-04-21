@@ -14,7 +14,7 @@ Background music: Enjoy thrilling background music during gameplay.
 
 Fun adventure: A thrilling adventure full of action and excitement!
 
-How to Play
+#How to Play
 Arrow Keys:
 
 Up Arrow (↑): Makes your dino jump to avoid obstacles.
@@ -27,7 +27,7 @@ Avoid Obstacles: Don’t let the dragon catch you! Jump or move to dodge the obs
 
 Score: You gain a point each time you successfully avoid an obstacle. Keep running and get a high score!
 
-Installation
+#Installation
 To run the game on your local machine, follow these steps:
 
 Clone the repository:
@@ -35,7 +35,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/dino-blaze-the-dragon-chase.git
+git clone https://github.com/ShatyamYograj/dino-blaze-the-dragon-chase.git
 Navigate to the project directory:
 
 bash
@@ -46,7 +46,7 @@ Open the game:
 
 Simply open the index.html file in your browser to start playing.
 
-Technologies Used
+#Technologies Used
 HTML: Structure of the game page.
 
 CSS: Styling for the game elements, animations, and layout.
@@ -55,13 +55,12 @@ JavaScript: Game logic, controls, and interactions.
 
 Audio: Background music and sound effects for a better gaming experience.
 
-Contributing
+#Contributing
 If you'd like to contribute to this project, feel free to:
 
 Fork the repository.
 
 Create a new branch.
-
 Make your changes.
 
 Submit a pull request!
