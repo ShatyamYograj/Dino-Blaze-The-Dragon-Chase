@@ -1,7 +1,7 @@
 # Dino-Blaze-The-Dragon-Chase
 Dino Blaze: The Dragon Chase is an exciting, fast-paced, and adventurous game where you control a dinosaur trying to escape a fire-breathing dragon! The game challenges you to dodge obstacles, jump, and outrun the dragon to survive!
 
-Features
+#Features
 Fast-paced gameplay: Dash and jump to avoid obstacles and dragons!
 
 Dynamic animations: Watch your dino move and flip directions based on input.
