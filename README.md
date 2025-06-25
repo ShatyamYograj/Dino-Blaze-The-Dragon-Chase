@@ -30,7 +30,7 @@ Score: You gain a point each time you successfully avoid an obstacle. Keep runni
 #Installation
 To run the game on your local machine, follow these steps:
 
-Clone the repository:
+Clone the repository:-
 
 bash
 Copy
